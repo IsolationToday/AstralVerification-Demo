@@ -6,6 +6,8 @@
 
 __你可以将[utils文件夹](src/main/java/me/astral/verify/demo/utils)全部拷贝至你的项目内，以用于向AstralVerification服务器发送请求包__
 
+***
+
 ## 自定义加密/解密
 AstralVerification系统支持用户自定义项目的第二重加密解密算法
 
